@@ -1,0 +1,118 @@
+body{
+  font-family: Tahoma;
+  font-size: 16px;
+  color: #333;
+}
+.f1{
+  margin-left: 250px;
+  width: 1000px;
+  height: auto;
+  background-color: #e3e3d8;
+  border: 2px solid #d9d9ce;
+  margin-top: 10px;
+
+}
+.f2{
+  margin-left: 250px;
+  width: 960px;
+  padding: 20px;
+  height: auto;
+  background-color: #e3e3d8;
+  border: 2px solid #d9d9ce;
+  margin-top: 10px;
+}
+.f3{
+  margin-left: 250px;
+  width: 1000px;
+  height: auto;
+  background-color: #e3e3d8;
+  border: 2px solid #d9d9ce;
+  margin-top: 10px;
+  height: 540px;
+
+}
+.klock{
+  margin-left: 0px;
+  width: 650px;
+  background-color: #e3e3d8;
+  border: 2px solid #e3e3d9;
+  margin-top: 0px;
+  height: 540px;
+  z-index: 2;
+}
+.f0{
+  margin: 10px;
+  display: block;
+  width: 200px;
+  height: 65px;
+  color: #fcfcfa;
+  background-color: #787875;
+  border: 2px solid #6e6e6b;
+
+  font-size: 16px;
+  text-decoration: none;
+  text-align: center;
+  padding-top: 35px;
+}
+.f4{
+  margin-left: 250px;
+  width: 980px;
+  padding: 10px;
+  height: auto;
+  background-color: #e3e3d8;
+  border: 2px solid #d9d9ce;
+  margin-top: 10px;
+  text-align: center;
+}
+A {
+  text-decoration: underline;
+  color: #333;
+}
+A:hover {
+  text-decoration: none;
+  color: #333;
+}
+.block1{
+  text-align: center;
+  padding-top: 10px;
+  height: 390px;
+  width: 300px;
+  top: 240px;
+  background-color: #787875;
+  border: 2px solid #6e6e6b;
+  margin-left: 680px;
+  position: absolute;
+  z-index: 10;
+}
+.block2 {
+width: 100px;
+height: 100px;
+right: 50px;
+bottom: -100px;
+background-color: #787875;
+position: absolute;
+text-align: center;
+border: 2px solid #6e6e6b;
+z-index: 2;
+}
+.block3{
+  width: 100px;
+  height: 200px;
+  top: 0px;
+  right: 0px;
+z-index: 4;
+  background-color: #787875;
+  position: fixed;
+  text-align: center;
+  border: 2px solid #6e6e6b;
+}
+.block4 {
+  width: 100px;
+  height: 100px;
+  bottom: -150px;
+  right: 0px;
+  background-color: #787875;
+  position: absolute;
+  text-align: center;
+  border: 2px solid #6e6e6b;
+}
